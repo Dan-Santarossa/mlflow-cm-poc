@@ -29,12 +29,6 @@ type the command given below for terraform initialization:
 
 - terraform init
 
-# Creating Workspace
-
-To make terraform naming convention more sopishticaed , we have followed the workspaces concept. So to create a workspace , run the command below
-
-- terraform workspace new terraform-mlflow [**NOTE: You can give any workspace name of your choice**]
-
 ## Terraform Apply
 Once terraform is initialized, run the command below to see which resources would get
 deployed if terraform script runs successfully:
