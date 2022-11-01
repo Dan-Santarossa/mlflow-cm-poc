@@ -1,4 +1,4 @@
-# Deploying Dockerized MLFLOW Application Server on AWS
+# Deploying Dockerized MLFLOW Application Server on AWS With Terraform
 
 This project focuses on deploying containerized mlflow app on AWS provisioned through terraform. The architecture designed and executed is given below
 ![](infra.png)
