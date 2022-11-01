@@ -7,8 +7,8 @@ This infra consists of a standalone networking stack including a VPC, Public and
 
 ## Prequisites
 
-AWS CLI installed and configured to your AWS account
-Terraform Installed
+-AWS CLI installed and configured to your AWS account
+-Terraform Installed
 
 ## Accessing the application
 
