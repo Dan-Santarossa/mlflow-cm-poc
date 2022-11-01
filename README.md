@@ -61,3 +61,5 @@ On running this, terraform will show resources being destroyed and will
 ask permission from you to clean up resources.
 
 Type -- **yes** -- and AWS infrastructure will start to clean up and resources will be destroyed.
+
+**NOTE** for the sake of this PoC I have left out a gitignore to avoid any potential issues. I understand it is best practice in production
