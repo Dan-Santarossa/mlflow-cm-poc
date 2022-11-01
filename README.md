@@ -5,6 +5,11 @@ This project focuses on deploying containerized mlflow app on AWS provisioned th
 
 This infra consists of a standalone networking stack including a VPC, Public and Private Subnets and other dependent resources. Furthermore, it includes an EC2 instance running the MLFlow application bootstrapped on it once instance is up and running. It also contains a custom security group attached with the EC2 Instance.
 
+## Prequisites
+
+AWS CLI installed and configured to your AWS account
+Terraform Installed
+
 ## Accessing the application
 
 You will hit the EC2 instance's public IP to view the app running on it. 
