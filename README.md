@@ -14,7 +14,7 @@ This infra consists of a standalone networking stack including a VPC, Public and
 
 You will hit the EC2 instance's public IP to view the app running on it. 
 
-- **<EC-2Public-IP:80>**
+- **<MLFlow_EC2_IP:80>** - This will populate for you as an output when the apply is complete. Place into Browser.
 
 To access the app you need to put the username and password which are given below
 
